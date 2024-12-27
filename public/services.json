@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/vP4NnKw/img-team-member-career-03-removebg-preview.png",
+    "serviceName": "Resume Building",
+    "category": "Online",
+    "description": "Enhance your resume with professional guidance.",
+    "fullDescription": "This service provides in-depth assistance to craft a professional resume tailored to your career goals, ensuring it stands out to potential employers.",
+    "price": 1050,
+    "durationDate": "2024-12-01 10:00 AM",
+    "counselorName": "Jane Doe",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/qm76yX1/DALL-E-2024-11-18-01-36-40-A-cozy-counseling-room-featuring-two-comfortable-chairs-facing-each-other.webp",
+    "serviceName": "Career Counseling Session",
+    "category": "Offline",
+    "description": "One-on-one career counseling to explore your career path.",
+    "fullDescription": "Work with an expert counselor to identify your strengths, set career goals, and chart a path towards achieving them with actionable steps.",
+    "price": 1000,
+    "durationDate": "2024-12-02 2:00 PM",
+    "counselorName": "John Smith",
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/jWm0KTn/project-02.jpg",
+    "serviceName": "Interview Preparation",
+    "category": "Online",
+    "description": "Master your interview skills with expert tips.",
+    "fullDescription": "Gain confidence and improve your interview performance with practical strategies, mock interviews, and personalized feedback.",
+    "price": 750,
+    "durationDate": "2024-12-03 11:00 AM",
+    "counselorName": "Emily Johnson",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/G7WrnB9/service-01.jpg",
+    "serviceName": "Job Market Analysis",
+    "category": "Group",
+    "description": "Understand current job trends to make informed decisions.",
+    "fullDescription": "Learn about the latest job trends, industry demands, and career opportunities through comprehensive market analysis.",
+    "price": 400,
+    "durationDate": "2024-12-04 1:00 PM",
+    "counselorName": "Michael Brown",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/qRMwC7g/service-03.jpg",
+    "serviceName": "Personality Assessment",
+    "category": "Online",
+    "description": "Identify strengths and weaknesses with a detailed assessment.",
+    "fullDescription": "Discover your personality traits, strengths, and areas for improvement through a scientifically backed assessment.",
+    "price": 600,
+    "durationDate": "2024-12-05 3:00 PM",
+    "counselorName": "Sarah Davis",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/ZRsvsg1/about-01.jpg",
+    "serviceName": "Skill Development Advice",
+    "category": "Offline",
+    "description": "Get expert advice on upgrading your skills for better opportunities.",
+    "fullDescription": "Receive personalized advice on acquiring new skills or upgrading existing ones to improve your career prospects.",
+    "price": 700,
+    "durationDate": "2024-12-06 4:00 PM",
+    "counselorName": "David Wilson",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/6sJKL4s/img-commitment-01.jpg",
+    "serviceName": "Freelancing Guidance",
+    "category": "Online",
+    "description": "Learn the essentials of freelancing and building a client base.",
+    "fullDescription": "Understand freelancing fundamentals, tips for client acquisition, and strategies to build a sustainable freelancing career.",
+    "price": 550,
+    "durationDate": "2024-12-07 5:00 PM",
+    "counselorName": "Olivia Martinez",
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/26ndSvD/event-02.jpg",
+    "serviceName": "Leadership Training",
+    "category": "Group",
+    "description": "Develop leadership skills to excel in your career.",
+    "fullDescription": "Participate in engaging group activities and workshops to hone your leadership skills and excel in team management.",
+    "price": 1200,
+    "durationDate": "2024-12-08 9:00 AM",
+    "counselorName": "James Anderson",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/R4w3D3B/service-02.jpg",
+    "serviceName": "Work-Life Balance Coaching",
+    "category": "Offline",
+    "description": "Find harmony between your professional and personal life.",
+    "fullDescription": "Discover effective strategies to achieve a balanced lifestyle, reducing stress and improving productivity.",
+    "price": 900,
+    "durationDate": "2024-12-09 6:00 PM",
+    "counselorName": "Emma Thomas",
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/ZXz0G53/blog-01.jpg",
+    "serviceName": "Entrepreneurship Counseling",
+    "category": "Online",
+    "description": "Start your journey with advice from successful entrepreneurs.",
+    "fullDescription": "Learn from experienced entrepreneurs on how to start and grow a successful business while avoiding common pitfalls.",
+    "price": 600,
+    "durationDate": "2024-12-10 7:00 PM",
+    "counselorName": "Sophia Garcia",
+    "rating": 5.0
+  }
+]

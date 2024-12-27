@@ -1,5 +1,5 @@
 <h1 align="center"> Career Counseling</h1>
-<p align="center"> Category - 004 </p>
+
 
 Career Counseling is a responsive web application designed to assist individuals in making informed career decisions. The platform provides valuable insights, tools, and resources for choosing the right career path.
 
